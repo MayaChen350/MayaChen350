@@ -1,12 +1,20 @@
 Some projects/ideas I would currently gladly accept learning and working on with you:
 - A website
 - A C# application (or library)
+- An Unity game
 - A game mod
 - A discord bot (Any language if you work with me, otherwise I'll choose)
+- Embedded systems (but it's a brand new obsession)
 - Or anything really! I love learning new stuff
 ---
-Despite this and my obssession for learning more and becoming better, consider that I lack experience, like, I started *really* programming on mid August 2023. Starting there I've been doing a lot of C# with college, then started a kind of card game that I'm still working on on my part, I will make the repository public later.
+If I place that here it's because I'm crazy about programming/computer science and want to have some people I can share this with, whether they work with me or not, teach me or learn from me or just are interested in general in what I'm doing <3 (which is rarely wow but okay I work hard on multiple things)
 
-After that by my friend's recommandation I started learning web. In one month and half I learned most html and css, and I started learning javascript recently.
+I started in August 2023 so I gotta say I'm really into it
 
-Despite me sometimes being sad of not being able to do projects with anyone, I gotta recognize my level anyway, I'm just a beginner. However if you're here say hi to my discord I somehow lack socials ^^'
+Me a beginner? Surely
+But at least I accept my mistakes and devour any concept I don't understand for hours so you can consider me a genius maybe (jk)
+
+Check my website for more informations about me I guess I spent some time on it
+https://MayaChen350.github.io
+
+A variable is a pointer to the value of an adress.

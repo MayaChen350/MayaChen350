@@ -17,4 +17,4 @@ But at least I accept my mistakes and devour any concept I don't understand for 
 Check my website for more informations about me I guess I spent some time on it
 https://MayaChen350.github.io
 
-A variable is a pointer to the value of an adress.
+A variable is a pointer to the value stored at an adress.

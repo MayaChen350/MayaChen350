@@ -1,3 +1,6 @@
+Hi! I'm maya yet another autistic transfem programmer and I have a hyperfixation on coding... probably!
+
+---
 Some projects/ideas I would currently gladly accept learning and working on with you:
 - A website
 - A C# application (or library)

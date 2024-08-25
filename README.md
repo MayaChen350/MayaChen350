@@ -1,23 +1,31 @@
-Hi! I'm maya yet another autistic transfem programmer and I have a hyperfixation on coding... probably!
+(last updated: 2024/08/24)
+
+Hi! I'm maya and I compile into yet another autistic transfem programmer
+
+I do different kind of stuff except art but I love solving problems! Feel free to contact me on discord or at maychennn@protonmail.com (but preferably we'll go on discord after)
 
 ---
-Some projects/ideas I would currently gladly accept learning and working on with you:
-- A website
-- A C# application (or library)
-- An Unity game
-- A game mod
-- A discord bot (Any language if you work with me, otherwise I'll choose)
-- Embedded systems (but it's a brand new obsession)
-- Or anything really! I love learning new stuff
+I'm not very used to work with people yet but I'll be glad to work with you if you want a (very) cool (and silly) transfem coding friend / partner
+
+I try to be versatile!! Here's some languages I know (or kinda):
+C,
+Python, Lua,
+Java, C#, Kotlin,
+Haskell,
+Javascript, Typescript, (html css scss)
+and Zig and I know some bf
+
+Of course I'm very open if you have a language you want to introduce me in!!!
+
+...Except Rust
+Do I really need to...?
+Aren't like most queer programmers Rust users anyway?? Can't I be original somehow!! Fine fine one day I'll learn it I guess!
 ---
-If I place that here it's because I'm crazy about programming/computer science and want to have some people I can share this with, whether they work with me or not, teach me or learn from me or just are interested in general in what I'm doing <3 (which is rarely wow but it's okay I work hard)
+Alsoooo don't be scared of approaching me if you're a beginner.
 
-I started in August 2023 so I gotta say I'm really into it
+If you're motivated I'll be glad to talk to you about programming!
 
-Me a beginner? Surely
-But at least I accept my mistakes and devour any concept I don't understand for hours so you can consider me a genius maybe (jk)
-
-Check my website for more informations about me I guess I spent some time on it
+Here's my outdated bio website if you want to check too:
 https://MayaChen350.github.io
 
 A variable is a pointer to the value stored at an adress.

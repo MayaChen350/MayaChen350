@@ -1,6 +1,6 @@
 Hi! I'm maya and I compile into yet another autistic transfem programmer
 
-I do different kind of stuff except art but I love solving problems! Feel free to contact me on discord or at maychennn@protonmail.com (but preferably we'll go on discord after)
+I do different kind of stuff except art but I love solving problems! Feel free to contact me on discord (**@giratina_shiny**) or at maychennn@protonmail.com (but preferably we'll go on discord after)
 
 ---
 I'm not very used to work with people yet but I'll be glad to work with you if you want a (very) cool (and silly) transfem coding friend / partner

@@ -1,5 +1,9 @@
 Hi! I'm maya and I compile into yet another autistic transfem programmer
 
+I'm literally a programming nerd and I guess I just can't stop learning more languages for some reasons... no no I only speak french and english I meant programming languages like damn why is there so many jvm languages and what's the difference between Scala and F# really idk what I should learn at all. Wait neither you say? Pffft but functional programming is so fun fr!!
+
+I wish I had a favorite language. I'm so much adhd I want to use a different language nearly every week or smth. So many different ways to think and do stuff! Not really any specialization yet I'm just a Jevil ("I can do anything") girl tbh tbh
+
 I do different kind of stuff except art but I love solving problems! Feel free to contact me on discord (**@giratina_shiny**) or at maychennn@protonmail.com (but preferably we'll go on discord after)
 
 ---
@@ -38,4 +42,4 @@ https://MayaChen350.github.io
 
 A variable is a pointer to the value stored at an adress.
 
-(last updated: 2024/08/24)
+(last updated: 2024/09/19)

@@ -19,7 +19,7 @@ Java, C#, Kotlin,
 \
 Haskell,
 \
-Javascript, Typescript, (html css scss)
+Javascript, Typescript, (html css scss react)
 \
 and Zig and I know some bf
 

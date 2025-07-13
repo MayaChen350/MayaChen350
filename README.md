@@ -1,10 +1,19 @@
-### Hi!!!!! I'm Maya!!!
-You can call me Maya.󠁣 I'm some intermediate level dev (Started in August 2023) who's a bit too obsessed about programming.
+# Hi!!!!! I'm Maya ☁️☀️
 
-I prefer Kotlin, but I'm also good with most programming languages (C, Javascript, Python, C#, etc)
-Also I'm there for any Godot programming needs
+Ghost-type Pokémons fan, android dev and amateur reverse engineer :3  
 
-Feel free to contact me on my discord for anything :3
-@giratina_shiny
+<img width="498" height="276" alt="image" src="https://media1.tenor.com/m/s059Zg3dMQ0AAAAC/uu-smile.gif" />
 
-(last updated: 2025/05/19)
+I like lambda calculus too and therefore, functional programming  
+
+FP, OOP, low-level etc it's all fun for me!  
+(But **Kotlin** comes first)
+
+
+[Check my repos!!!](https://github.com/MayaChen350?tab=repositories&q=&type=source)
+---
+
+Feel free to contact me on my discord for anything :3  
+`@giratina_shiny`
+
+(last updated: 2025/07/12)

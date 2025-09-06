@@ -31,6 +31,7 @@ Thanks
  - [ ] Make sure I can release a new APK
  - [ ] Mayascope history maybe
  - [ ] Streak? (is this braindead)
+ - [ ] Make a Desktop version with KMP
  - [ ] Make the secret idea
 
 ### MayCrypt
@@ -47,4 +48,4 @@ Thanks
 I am **not asking or inciting you to work or help on my own projects**, especially because I obviously won't pay anyone, so do it if you want
 
 However, that also applies to **non-devs**, if you're looking for an update on a project, whether it's stated here or not, please contact me on discord.  
-I'll really appreciate the motivation it'll give me if people are interested
+I'll really appreciate the motivation it'll give me if people show they are interested

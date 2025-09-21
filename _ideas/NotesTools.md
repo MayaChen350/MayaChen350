@@ -14,7 +14,7 @@ No TUI, no fancy GUI, all in the terminal.
 Basically, what I want the tool to do, is take all the notes from all the files in the folder, with notes formatted in a certain way (with tags)  
 And with the tool, you can basically generate a structured file regrouping all the small notes from different files with the same tags together, kinda like how a linker puts everything in the .text section in the final executable/library in the same .text section.  
 
-An additional editor with autocomplete of already existing tags could also be nice.
+An additional editor or a n/vim plugin with autocomplete of already existing tags could also be nice.
 
 ## Tools to use probably
 

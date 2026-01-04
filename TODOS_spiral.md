@@ -10,11 +10,13 @@ Thanks
 
 ## Public projects
 
-### Chesnay-Bot
+### Chesnay-Bot (ON HOLD INDEFINITELY)
  - [ ] Write unit tests
  - [ ] Fix the role attribution system
  - [ ] Fix the database (very me problem most probably)
  - [ ] Finish whatever was next for the next version in my repository Todos
+
+ - [ ] Add an invite to the server... maybe.
 
 ### Maya Binary Table
  - [ ] Fix bugs, make tests work
@@ -23,25 +25,42 @@ Thanks
  - [ ] Enjoy making this project (the entire overall progress of that project is mine)
 
 ### Mayachen350.github.io
- - [ ] Work on it (it's on the new-redesign branch)
- - [ ] Find ideas
- - [ ] Be motivated to do web frontend
+ - [ ] Fix it
+ - [ ] Clean out the week thing or add "Idk anymore"
+ - [ ] Publish it (finally)
+ - [ ] Project section when I'll feel like showing projects
+
+- [ ] Blog
 
 ### Mayascope
- - [ ] Make sure I can release a new APK
+ - [ ] Update it
+
  - [ ] Mayascope history maybe
  - [ ] Streak? (is this braindead)
- - [ ] Make a Desktop version with KMP
- - [ ] Make the secret idea
+ - [ ] Make poems accessible maybe after 30 uses (secretly)
 
 ### MayCrypt
 
  - [ ] Rewrite it so it "works"
 
+### ConsoleCalendar
+
+ - [ ] Think about taking the time to finish it because why not
+
+### MayChen Mail Bot
+
+ - [ ] Add Readme with pictures
+ - [ ] Document code
+
+### Haskell words
+
+ - [ ] Understand haskell again (somehow)
+ - [ ] Fix it
+
 ## Private projects
 
 ### Who Owes Me
- - [ ] Make it open source if anyone is ever interested to have it open source
+ - [ ] Finish coding everything I have written down before putting it under GPL and making it open to code contributions (Ask me for the source code on discord if I haven't sent you the app with the source attached already)
 
 ## Notes
 

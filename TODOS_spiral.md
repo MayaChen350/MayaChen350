@@ -28,6 +28,7 @@ Thanks
  - [ ] Fix it
  - [ ] Clean out the week thing or add "Idk anymore"
  - [ ] Publish it (finally)
+ - [ ] /poems with all my poems
  - [ ] Project section when I'll feel like showing projects
 
 - [ ] Blog
@@ -57,6 +58,11 @@ Thanks
  - [ ] Understand haskell again (somehow)
  - [ ] Fix it
 
+### NoteViewer
+
+ - [ ] Continue it
+ - [ ] Finish it
+
 ## Private projects
 
 ### Who Owes Me
@@ -67,4 +73,4 @@ Thanks
 I am **not asking or inciting you to work or help on my own projects**, especially because I obviously won't pay anyone, so do it if you want
 
 However, that also applies to **non-devs**, if you're looking for an update on a project, whether it's stated here or not, please contact me on discord.  
-I'll really appreciate the motivation it'll give me if people show they are interested
+I'll really appreciate the motivation it'll give me if people show me they are interested

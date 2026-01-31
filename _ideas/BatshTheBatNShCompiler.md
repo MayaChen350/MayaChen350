@@ -36,9 +36,16 @@ Those extensions should be stored with the app data or somewhere else on windows
 
 ## Tools to use probably
 
-- Rust or C maybe?
+- Whatever programming language working well
 - Access to both windows and an UNIX(-like) os able of using `sh`
+
+## References
+
+When I wrote that idea down, someone traveled back in time to do it (source: trust)  
+
+Keeping it as reference:  
+https://github.com/batsh-dev-team/Batsh
 
 ## When possible?
 
-When I'll know Rust.
+When I'll have a lot of time to waste

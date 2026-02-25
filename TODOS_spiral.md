@@ -22,13 +22,9 @@ Thanks
  - [ ] Fix bugs, make tests work
 
 ### ARM32 asm file server
- - [ ] Enjoy making this project (the entire overall progress of that project is mine)
+ - [ ] Enjoy making this project (I reserve the entire overall progress of that project to me)
 
 ### Mayachen350.github.io
- - [ ] Fix it
- - [ ] Clean out the week thing or add "Idk anymore"
- - [ ] Publish it (finally)
- - [ ] /poems with all my poems
  - [ ] Project section when I'll feel like showing projects
 
 - [ ] Blog

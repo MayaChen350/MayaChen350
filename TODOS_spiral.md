@@ -10,6 +10,12 @@ Thanks
 
 ## Public projects
 
+### MayaChen350 (this repo)
+ - [ ] Fill a list of projects and everything in a json at MayaChen350/MayaChen350
+ - [ ] Put titles and dates on poems
+ - [ ] Deep search for writing date for older poems
+ - [ ] Add some project ideas I wrote down on discord... on a paper somewhere
+
 ### Chesnay-Bot (ON HOLD INDEFINITELY)
  - [ ] Write unit tests
  - [ ] Fix the role attribution system
@@ -26,15 +32,14 @@ Thanks
 
 ### Mayachen350.github.io
  - [ ] Project section when I'll feel like showing projects
-
-- [ ] Blog
+ - [ ] Music section
+ - [ ] Blog
 
 ### Mayascope
- - [ ] Update it
+ - [X] Update it
 
  - [ ] Mayascope history maybe
  - [ ] Streak? (is this braindead)
- - [ ] Make poems accessible maybe after 30 uses (secretly)
 
 ### MayCrypt
 

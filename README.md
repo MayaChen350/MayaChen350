@@ -9,6 +9,7 @@ I like lambda calculus too and therefore, functional programming
 FP, OOP, low-level etc it's all fun for me!  
 (But **Kotlin** comes first)
 
+I am **not** a walking website agency (I design systems not visuals)
 
 [Check my repos!!!](https://github.com/MayaChen350?tab=repositories&q=&type=source)
 ---
@@ -16,4 +17,4 @@ FP, OOP, low-level etc it's all fun for me!
 Feel free to contact me on my discord for anything :3  
 `@giratina_shiny`
 
-(last updated: 2025/07/12)
+(last updated: 2026 May 22)

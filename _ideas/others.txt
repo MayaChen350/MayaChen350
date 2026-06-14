@@ -1,2 +1,5 @@
 Other, desorganized smaller or undocumented ideas:
 - Warcraft(-like) clone on roblox (point and click game)
+- transform the Lego dimension pad a music speaker thingie
+- Omnivox client but it's CLI or TUI somehow
+- the ios automated tasks maker but for android instead
